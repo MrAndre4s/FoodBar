@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640379814430",
+    "project_id": "foodbar-37e3a",
+    "storage_bucket": "foodbar-37e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640379814430:android:22a243d9b8570b064ea40f",
+        "android_client_info": {
+          "package_name": "com.example.foodbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640379814430-jj0b3pi67s122dcc2aj5ul5qs5oje5hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SkbCTA3WTYNpJFXdOAEdFfIIL9Dw30A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640379814430-jj0b3pi67s122dcc2aj5ul5qs5oje5hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
